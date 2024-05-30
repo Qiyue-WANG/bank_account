@@ -17,3 +17,4 @@ class BankAccount:
             self.balance += amount
         else:
             raise ValueError("Deposit amount must be greater than 0!")
+

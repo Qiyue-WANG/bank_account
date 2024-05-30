@@ -1,0 +1,5 @@
+venv
+_pycache_
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf
